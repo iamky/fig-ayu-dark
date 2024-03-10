@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Kanishk Yadav",
+    "twitter": "@im__ky",
+    "github": "iamky"
+  },
+  "version": "1.0",
+  "theme": {
+    "backgroundColor": "#000000",
+    "textColor": "#f9af4f",
+    "matchBackgroundColor": "#000000",
+    "selection": {
+      "textColor": "#53bdfa",
+      "backgroundColor": "#000000"
+    },
+    "description": {
+      "textColor": "#cda1fa",
+      "borderColor": "#7fd962"
+    }
+  }
+}
